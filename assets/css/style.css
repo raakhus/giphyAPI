@@ -1,0 +1,27 @@
+.active-pink-4 input[type=text]:focus:not([readonly]) {
+    border: 1px solid #f48fb1;
+    box-shadow: 0 0 0 1px #f48fb1;
+}
+@media only screen and (max-width: 960px) {
+body {
+    width: 100%
+}
+}
+@media only screen and (max-width: 600px) {
+    body {
+        width: 100%
+    }
+    }
+@media only screen and (max-width: 400px) {
+        body {
+            width: 100%
+        }
+        }
+.container{
+    position: relative;
+}
+.gifSearch{
+    position: absolute;
+    left: 50%;
+    right: 50%;
+}
