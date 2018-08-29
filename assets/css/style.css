@@ -17,3 +17,11 @@ body {
             width: 100%
         }
         }
+.container{
+    position: relative;
+}
+.gifSearch{
+    position: absolute;
+    left: 50%;
+    right: 50%;
+}
